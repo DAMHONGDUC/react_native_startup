@@ -1,6 +1,6 @@
 # React Native Startup Source
 
-- current version: 0.72.5
+- react-native: 0.72.5
 - typescript
 
 # Base dependencies
