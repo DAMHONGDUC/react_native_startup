@@ -30,7 +30,7 @@
   "editor.fontLigatures": true,
   // "workbench.iconTheme": "vscode-icons",
   // "terminal.integrated.fontFamily": "monospace",
-  "editor.fontSize": 12,
+  "editor.fontSize": 14,
   "workbench.colorCustomizations": {
     "editor.lineHighlightBackground": "#1073cf2d",
     "editor.lineHighlightBorder": "#9fced11f"

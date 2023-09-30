@@ -1,5 +1,5 @@
 import React from "react";
-import Home from "@screens/home/Home";
+import Home from "@screens/home/HomeScreen";
 import { View } from "react-native";
 
 const App = () => {
