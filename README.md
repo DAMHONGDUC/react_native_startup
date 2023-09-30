@@ -1,15 +1,16 @@
 # React Native Startup Source
 
-- current version: 0.72.5
+- react-native: 0.72.5
 - typescript
 
 # Base dependencies
 
-- Code Analysis Tool: eslint
-- Code Formatter: prettier
-- Pre-Commit Hook: husky
-- Networking: axios 
-- App Navigation: @react-navigation/native, @react-navigation/native-stack
-- State Management: @reduxjs/toolkit, react-redux
-- UI lib: @rneui/base, @rneui/themed
-- Icons: react-native-vector-icons
+1. Code Analysis Tool: eslint
+2. Code Formatter: prettier
+3. Absolute Path: babel-plugin-module-resolver
+4. Pre-Commit Hook: husky
+5. Networking: axios 
+6. App Navigation: @react-navigation/native, @react-navigation/native-stack
+7. State Management: @reduxjs/toolkit, react-redux
+8. UI lib: @rneui/base, @rneui/themed
+9. Icons: react-native-vector-icons
